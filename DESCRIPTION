@@ -1,7 +1,7 @@
 Package: GetDFPData2
 Title: Reading Annual and Quarterly Financial Reports from B3
-Version: 0.6
-Date: 2022-02-18
+Version: 0.6.1
+Date: 2022-03-02
 Authors@R: c(person("Marcelo", "Perlin", email = "marceloperlin@gmail.com", role = c("aut", "cre")),
              person("Guilherme", "Kirch", email = "guilhermekirch@gmail.com", role = c("aut")))  
 Description: Reads annual and quarterly financial reports from companies traded at B3, the Brazilian exchange 
@@ -18,9 +18,9 @@ RoxygenNote: 7.1.1
 Suggests: knitr, rmarkdown, testthat, ggplot2, covr
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2022-02-19 21:32:57 UTC; msperlin
+Packaged: 2022-03-02 14:20:27 UTC; msperlin
 Author: Marcelo Perlin [aut, cre],
   Guilherme Kirch [aut]
 Maintainer: Marcelo Perlin <marceloperlin@gmail.com>
 Repository: CRAN
-Date/Publication: 2022-02-19 21:40:02 UTC
+Date/Publication: 2022-03-02 15:30:11 UTC
