@@ -1,3 +1,8 @@
+## Version 0.6.3 (2023-04-24)
+
+- Fixed [issue #8](https://github.com/msperlin/GetDFPData2/issues/8)
+- Moved all "http://" addresses to https:// 
+
 ## Version 0.6.2 (2022-06-09)
 
 - Fixed issue with ftp change in CVM
